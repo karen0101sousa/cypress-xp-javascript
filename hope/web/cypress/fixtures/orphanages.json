@@ -1,0 +1,46 @@
+{
+    "create": {
+        "name": "Orfanato Esperança",
+        "description": "O Orfanato Esperança acolhe crianças de 0 a 12 anos, oferecendo um ambiente seguro e acolhedor. Temos uma equipe preparada para atender às necessidades físicas, emocionais e educacionais dos pequenos.",
+        "opening_hours": "Segunda a sexta-feira, das 08:00 às 18:00",
+        "open_on_weekends": "false",
+        "position": {
+            "latitude": -3.767697234462321,
+            "longitude": -38.583565950393684
+        },
+        "image": "kids-playground-1.png"
+    },
+    "duplicate": {
+        "name": "Casa do Sol Nascente",
+        "description": "A Casa do Sol Nascente recebe crianças e adolescentes em situação de vulnerabilidade, promovendo a integração familiar e o desenvolvimento educacional e emocional.",
+        "opening_hours": "Segunda a sexta-feira, das 07:30 às 17:30",
+        "open_on_weekends": "true",
+        "position": {
+            "latitude": -3.908090556067281,
+            "longitude": -38.51173586371683
+        },
+        "image": "kids-playground-5.png"
+    },
+    "map": {
+        "name": "Mundo Feliz",
+        "description": "O Mundo Feliz é um orfanato que busca resgatar a dignidade de crianças e adolescentes, proporcionando um lar seguro com atividades educativas e recreativas.",
+        "opening_hours": "Segunda a sexta-feira, das 08:30 às 17:30",
+        "open_on_weekends": "true",
+        "position": {
+            "latitude": -3.8363455900014842,
+            "longitude": -38.49376916255841
+        },
+        "image":"kids-playground-7.png"
+    },
+    "required": {
+        "name": "Mundo Feliz",
+        "description": "O Mundo Feliz é um orfanato que busca resgatar a dignidade de crianças e adolescentes, proporcionando um lar seguro com atividades educativas e recreativas.",
+        "opening_hours": "Segunda a sexta-feira, das 08:30 às 17:30",
+        "open_on_weekends": "false",
+        "position": {
+            "latitude": -3.8363455900014842,
+            "longitude": -38.49376916255841
+        },
+        "image":"kids-playground-7.png"
+    }
+}
